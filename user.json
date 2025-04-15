@@ -1,6 +1,4 @@
 {
-  "userTableData": [
-    {
       "id": 1,
       "name": "Emma Wilson",
       "email": "emma.wilson@example.com",
@@ -84,29 +82,3 @@
       "lastActive": "2025-03-30",
       "status": "Inactive"
     }
-  ],
-  "summaryCards": [
-    {
-      "icon": "PeopleIcon",
-      "title": "Total Users",
-      "value": "1,234",
-      "growth": "+12% from last month",
-      "bgColor": "rgba(33, 150, 243, 0.1)"
-    },
-    {
-      "icon": "TaskIcon",
-      "title": "Active Tasks",
-      "value": "56",
-      "growth": "+5 new tasks today",
-      "bgColor": "rgba(255, 64, 129, 0.1)"
-    },
-    {
-      "icon": "AttachMoneyIcon",
-      "title": "Monthly Revenue",
-      "value": "$45,000",
-      "growth": "+8% from last month",
-      "color": "#4CAF50",
-      "bgColor": "rgba(76, 175, 80, 0.1)"
-    }
-  ]
-}
