@@ -1,4 +1,4 @@
-{{
+[{
       "id": 1,
       "name": "Emma Wilson",
       "email": "emma.wilson@example.com",
@@ -81,4 +81,4 @@
       "email": "lucas.scott@example.com",
       "lastActive": "2025-03-30",
       "status": "Inactive"
-    }}
+    }]
